@@ -1,3 +1,5 @@
 # Java
 
-:coffee: Exercícios do curso de **Java básico**.
+:coffee:
+[pt-BR] Exercícios do curso de Java básico.
+[en-GB] Basic Java course exercises.
