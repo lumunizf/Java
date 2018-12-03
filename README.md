@@ -15,7 +15,7 @@
 1. **Instalação do Java**
 
 - Download do instalador do [Java JDK](http://www.oracle.com/technetwork/pt/java/javase/downloads)
-- Aceitar a licenção clicando em "Accept License Agreement".
+- Aceitar a licença clicando em "Accept License Agreement".
 - Clicar no link para download referente ao seu sistema operacional (Windows x64).
 - Após o download, executar a instalação (next, next, finish).
 
