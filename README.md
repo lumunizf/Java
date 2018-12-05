@@ -21,15 +21,15 @@
 
 2. **Configuração das variáveis de ambiente**
 
-- Atualizar o PATH do Windows:
-    * Meu Computador > Botão direito: Propriedades
-    * Configurações avançadas do sistema
-    * Propriedades do sistema: Aba 'Avançado'
-    * Botão "Variáveis do ambiente"
-    * Na área "Variáveis do sistema", clicar no botão 'Novo...'
-    * Na janela "Nova variável de sistema", preencher o campo 'Nome da variável' com *JAVA_HOME* e o campo 'Valor da variável' com o caminho do diretório onde o Java foi instalado.
-    * Ainda na área "Variáveis do sistema", selecionar a variável "Path" > botão Editar.
-    * Acrescentar no final > *;%JAVA_HOME%\bin* > botão OK.
+- Adicionar *JAVA_HOME* nas variáveis de ambiente:
+    a. Meu Computador > Botão direito: Propriedades > Configurações avançadas do sistema;
+    b. Propriedades do sistema: Aba 'Avançado' > Botão "Variáveis do ambiente";
+    c. Na área "Variáveis do sistema", clicar no botão 'Novo...';
+    d. Na janela "Nova variável de sistema", preencher o campo 'Nome da variável' com *JAVA_HOME* e o campo 'Valor da variável' com o caminho do diretório onde o Java foi instalado.
+
+- Atualizar o *PATH* das variáveis de ambiente:
+    a. Ainda na área "Variáveis do sistema", selecionar a variável "Path" > botão Editar.
+    b. Acrescentar ao final das configurações > *;%JAVA_HOME%\bin* > botão OK.
 
 3. **Validar a configuração das variáveis de ambiente**
 
