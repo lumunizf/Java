@@ -7,7 +7,8 @@
 
 ## Pré-Requisitos
 
- * Java instalado e configurado.
+ * Java JDK 8 instalado e configurado.  
+ 
  
 
 ## License
