@@ -43,9 +43,10 @@ java -version
 javac -version
 ```
 
-> O sistema deve apresentar a versão do compilador Java instalada.
+> O sistema deve apresentar a versão do compilador Java instalada.  
 
 
-## License
+
+### License
 
 MIT License © Luciana Muniz Freire.
