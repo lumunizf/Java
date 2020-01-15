@@ -2,7 +2,7 @@
 
 ## Exercícios dos cursos da formação Java
 
- - [ ] :coffee: Java Parte 1: Primeiros Passos.
+ - [x] :coffee: Java Parte 1: Primeiros Passos.
  - [ ] :coffee: Java Parte 2: Introdução à orientação a objetos.
  - [ ] :coffee: Java Parte 3: Entendendo herança e interface.
  - [ ] :coffee: Java Parte 4: Entendendo exceções.
